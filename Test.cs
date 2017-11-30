@@ -14,6 +14,16 @@ namespace GlobalLibrary
         public static GlobalEngine ReportEngine = new GlobalEngine();
         public static GlobalMethods GlobalMethods = new GlobalMethods();
 
+
+
+
+
+        // see this shit pops out or not
+          
+
+
+
+
         static void Main(string[] args)
         {
             //Set up
